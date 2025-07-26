@@ -1,0 +1,13 @@
+Follow these steps to successfully run this project:
+- cd client
+- run "npm install"
+- run "npm run start"
+
+Note: 
+this project is already using a sanity project that has restrauratns, categories and dishes data.
+you can find the sanity project inside the server folder and all the schemas used in this sanity project.
+if you want to use your sanity project, then you can change the sanity projectId in client/sanity.js file,
+and you can update the apis in client/api.js file according to your schemas.
+
+
+Enjoy 😉
